@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin: 0;
 }
 .fh5co-nav ul li {
-  border: solid black 5px;
+  /* border: solid black 5px; */
   padding: 0 10px 0 10px;
   margin: 0;
   list-style: none;
